@@ -10,6 +10,9 @@ The following classification algorithms are included:
 2) Support Vector Machine (SVM) - svm.ipynb <br>
 3) Decision Tree  - decision_tree_classification.ipynb <br>
 4) K-Nearest Neighbors (KNN) - KNN Classification.ipynb <br>
+5) Naive Bayes - Naive_Bayes.ipynb <br>
+6) Kernel SVM - Kernel_Svm.iynb <br>
+7) Random forest Classification - Random_forest_classification.ipynb <br>
 <br>
 <h1>Dataset</h1> <br>
 The dataset used for training and testing the models is included in the repository as dataset.csv. It contains several features and a target variable for classification. The data preprocessing steps are included in each notebook.
